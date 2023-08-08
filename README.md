@@ -1,6 +1,4 @@
-### Hi there 👋
-
-## Who am I? 
+## Hello!
 My name is **Mel**. I am an aspiring Data Scientist from the Philippines. I was supposed to be Maths Teacher, but my heart really goes out for crunching data. 
 
 ## What is my mission? 
