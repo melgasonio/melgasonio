@@ -9,3 +9,5 @@ I see myself as an *advocate of data fluency for my fellow Filipino in the margi
 * SQL
 * Tableau
 
+I am currently updating versions of myself by learning fun stuffs. See [releases](https://github.com/melgasonio/melgasonio/releases).
+
