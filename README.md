@@ -1,10 +1,3 @@
 ## Hello!
-My name is **Mel**. I am a data analyst and I build websites for fun. 
-
-## Tools that I use:
-* Python
-* SQL
-* Tableau
-
-I frequently update versions of myself by learning fun stuffs. See [releases](https://github.com/melgasonio/melgasonio/releases).
+My name is **Mel**. I am trying to learn React JS. Don't bully me if I'm still noob. XOXO
 
